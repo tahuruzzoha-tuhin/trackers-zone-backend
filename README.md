@@ -1,6 +1,6 @@
 # Trackers Zone  Backend : Your Trusted Travel Partner
 
-## Live Link : Visit our site  [Trackers Zone](https://Trackers Zone-7c69c.web.app/)
+## Live Link : Visit our site  [Trackers Zone](https://trackers-zone.netlify.app/)
 
 
 ### About Project 
