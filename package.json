@@ -1,5 +1,5 @@
 {
-  "name": "tourism-or-delivery-website-server-side-babulakterfsd",
+  "name": "tourism-or-delivery-website-server-side-tahuruzzoha-tuhin",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -10,15 +10,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/programming-hero-web-course1/tourism-or-delivery-website-server-side-babulakterfsd.git"
+    "url": "git+https://github.com/programming-hero-web-course1/tourism-or-delivery-website-server-side-tahuruzzoha-tuhin.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/programming-hero-web-course1/tourism-or-delivery-website-server-side-babulakterfsd/issues"
+    "url": "https://github.com/programming-hero-web-course1/tourism-or-delivery-website-server-side-tahuruzzoha-tuhin/issues"
   },
-  "homepage": "https://github.com/programming-hero-web-course1/tourism-or-delivery-website-server-side-babulakterfsd#readme",
+  "homepage": "https://github.com/programming-hero-web-course1/tourism-or-delivery-website-server-side-tahuruzzoha-tuhin#readme",
   "dependencies": {
     "cors": "^2.8.5",
     "dotenv": "^10.0.0",
